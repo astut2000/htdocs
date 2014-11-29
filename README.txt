@@ -1,6 +1,6 @@
 Project: YouTube Downloader
-Author: John Eckman
-URL: https://github.com/jeckman/YouTube-Downloader
+Author: 
+URL: https://github.com/YouTube-Downloader/htdocs
 License: GPL v2 or Later
 
 PHP Scripts to download videos from YouTube.  
